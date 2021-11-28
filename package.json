@@ -1,0 +1,40 @@
+{
+  "name": "dolby-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha ./__tests__/*.test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeClutch/Dolby-BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeClutch/Dolby-BE/issues"
+  },
+  "homepage": "https://github.com/TheCodeClutch/Dolby-BE#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cloudinary": "^1.27.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mailgun-js": "^0.22.0",
+    "mocha": "^9.1.3",
+    "mongoose": "^6.0.12",
+    "mongoose-fuzzy-searching": "^2.0.2",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.14",
+    "uuid": "^8.3.2"
+  }
+}
