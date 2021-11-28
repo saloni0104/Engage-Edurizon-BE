@@ -37,4 +37,4 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "edurizon"
-          heroku_email: "nikhilsingh498@gmail.com"
+          heroku_email: "suparekh01@gmail.com"

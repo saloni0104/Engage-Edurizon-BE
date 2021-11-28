@@ -10,7 +10,7 @@ const middleware = require("../Helpers/auth-middleware").session;
 const cloudinary = require("./cloudinary");
 const fs = require("fs");
 
-// For faculty - Add assignement for particular course by faculty
+// For faculty - Add assignment for particular course by faculty
 router.post(
   "/addAssignment",
   middleware,
