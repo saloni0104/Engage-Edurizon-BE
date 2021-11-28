@@ -6,7 +6,7 @@ const mg = mailgun({
 
 const triggerEmail = (to, subject, text) => {
   const data = {
-    from: "Dolby project suparekh01@gmail.com",
+    from: "Edurizon project suparekh01@gmail.com",
     to,
     subject,
     html: text,

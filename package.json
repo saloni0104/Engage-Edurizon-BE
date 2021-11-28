@@ -1,5 +1,5 @@
 {
-  "name": "dolby-be",
+  "name": "Edurizon",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCodeClutch/Dolby-BE.git"
+    "url": "git+https://github.com/saloni0104/Engage-Edurizon-BE.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheCodeClutch/Dolby-BE/issues"
+    "url": "https://github.com/saloni0104/Engage-Edurizon-BE/issues"
   },
-  "homepage": "https://github.com/TheCodeClutch/Dolby-BE#readme",
+  "homepage": "https://github.com/saloni0104/Engage-Edurizon-BE#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "bcrypt": "^5.0.1",
