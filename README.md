@@ -1,17 +1,21 @@
-# Edurizon ~ Igniting a Better Future
+# Edurizon (A submission for Microsoft Engage'21)
+
+<a href="https://drive.google.com/file/d/1DRHyvoA9Ao97ZDX8pCyR6Vbe_KULlpYT/view?usp=sharing"><h2 align="center"><strong>Short 5 min Demo Video</strong></h2></a>
+
+<a href="https://edurizon.netlify.app"><h2 align="center"><strong>Website Live</strong></h2></a>
 
 <p align="center">
 	<img src="https://github.com/saloni0104/Engage-Edurizon-FE/blob/master/Images/edurizon-logo-new.png" alt="Engage 21"/>
 </p>
 
-## A submission for Microsoft Engage'21
+## Edurizon ~ Igniting a Better Future
 
 <p align="justify">Edurizon is a one-stop fully functional hosted web application for smooth and extensive collaboration and engagement between teachers and students in this virtual era of learning and education. This prototype is built using agile methodologies as a part of the Microsoft Engage Mentorship Program 2021. From seamless video conferencing for classes and submitting assignments to a discussion’s forum and an interactive office hours meet, this application has some of the most essential features required to make teaching and learning a fun process remotely!
 </p>
 
 ## 🔗 Important Links
  * [Hosted Web Application](https://edurizon.netlify.app/)
- * [Video Demo](https://drive.google.com/file/d/1oLQzdgn6Y6eVVfM4cFM-9Rox-i4k1oAF/view?usp=sharing)
+  * [5 min Demo Video](https://drive.google.com/file/d/1DRHyvoA9Ao97ZDX8pCyR6Vbe_KULlpYT/view?usp=sharing)
  * [Documentation](https://docs.google.com/document/d/1vGeCNojOBVuFnDvJlwtrFVfO1uLVnA9AwAbrJ2t8rXs/edit?usp=sharing)
  * [UI](https://www.figma.com/file/k0gR5lXBm7D9L0JJEYSvkw/Microsoft-Engage'21---Edurizon?node-id=0%3A1)
  * [Frontend Repo](https://github.com/saloni0104/Engage-Edurizon-FE)
@@ -111,7 +115,7 @@ Link to backend repo: https://github.com/saloni0104/Engage-Edurizon-BE
 1. Cloudinary
 
 
-### Demo Video: 
+### [5 min Demo Video](https://drive.google.com/file/d/1DRHyvoA9Ao97ZDX8pCyR6Vbe_KULlpYT/view?usp=sharing) 
 
 
 ## ⚙️ Installation
