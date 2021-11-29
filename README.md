@@ -24,6 +24,29 @@
  * [Documentation](https://docs.google.com/document/d/1vGeCNojOBVuFnDvJlwtrFVfO1uLVnA9AwAbrJ2t8rXs/edit?usp=sharing)
  * [UI](https://www.figma.com/file/k0gR5lXBm7D9L0JJEYSvkw/Microsoft-Engage'21---Edurizon?node-id=0%3A1)
  * [Frontend Repo](https://github.com/saloni0104/Engage-Edurizon-FE)
+
+## ⚙️ Installation
+- To run the web app, cd into the **frontend directory** then run -
+```bash
+yarn start
+```
+- To run development server, first **cd into the backend directory** then run -
+```bash
+nodemon server
+```
+- To run unit tests
+```bash
+npm run tests
+```
+<br/>
+
+## Login Credentials for Usage on Website
+ * Login for Student :- 
+	- Institute ID - STUD01
+	- Password - saloniparekh
+* Login for Teacher :-
+	- Institute ID - TEACH001
+	- Password - teacher
   
 ![img](https://github.com/saloni0104/Engage-Edurizon-FE/blob/master/Images/home.JPG)
 
@@ -121,22 +144,6 @@ Link to backend repo: https://github.com/saloni0104/Engage-Edurizon-BE
 
 
 ### [5 min Demo Video](https://youtu.be/YDSTkZ-Uzzw) 
-
-
-## ⚙️ Installation
-- To run the web app, cd into the **frontend directory** then run -
-```bash
-yarn start
-```
-- To run development server, first **cd into the backend directory** then run -
-```bash
-nodemon server
-```
-- To run unit tests
-```bash
-npm run tests
-```
-<br/>
 
  
 ## 💻 Project Methodology
